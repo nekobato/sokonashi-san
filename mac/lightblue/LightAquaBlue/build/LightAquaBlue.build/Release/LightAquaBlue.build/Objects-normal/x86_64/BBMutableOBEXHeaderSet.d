@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/nekobato/Dropbox/Repositories/github/sokonashi/lightblue-0.4/src/mac/LightAquaBlue/BBMutableOBEXHeaderSet.m \
+  /Users/nekobato/Dropbox/Repositories/github/sokonashi/lightblue-0.4/src/mac/LightAquaBlue/BBMutableOBEXHeaderSet.h \
+  /Users/nekobato/Dropbox/Repositories/github/sokonashi/lightblue-0.4/src/mac/LightAquaBlue/BBOBEXHeaderSet.h

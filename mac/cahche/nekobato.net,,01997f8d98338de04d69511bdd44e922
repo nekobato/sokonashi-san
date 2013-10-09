@@ -1,0 +1,20 @@
+status: 200
+content-length: 1575
+content-location: http://nekobato.net/
+x-powered-by: Express
+server: nginx
+connection: keep-alive
+-content-encoding: gzip
+date: Wed, 26 Jun 2013 11:31:17 GMT
+content-type: text/html; charset=utf-8
+
+<!DOCTYPE html><html lang="ja"><head><link rel="stylesheet" href="/stylesheets/style.css"><script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script><script type="text/javascript" src="/javascripts/main.js"></script></head><body><header><nav><h1><a href="http://nekobato.net/">nekobato.net</a></h1><ul class="header-pages"><li><a href="#nekobato">nekobato</a></li><li><a href="#portfolio">portfolio</a></li></ul><ul class="header-links"><li class="facebook"><a href="http://www.facebook.com/hayato.koriyama.7/">facebook</a></li><li class="twitter"><a href="http://twitter.com/#!/nekobato/">twitter</a></li><li class="hayat"><a href="http://hayat.nekobato.net/">hayat</a></li><li class="sfc"><a href="http://web.sfc.keio.ac.jp/~nekobato/">sfc</a></li><li class="github"><a href="http://github.com/nekobato/">github</a></li></ul></nav></header><section id="nekobato" class="contents-wrap"><h2>nekobato</h2><pre class="comment code">/**
+* ラーメンベースで動作するオートポイエティックシステム
+* !! Violinクラスはbeta版です !!
+*
+* Copyright (c) 1988.10.18 nekobato
+*
+* @name	nekobato
+* @email	nekobato@gmail.com
+* @tel	090.7301.4492
+*/</pre></section><section id="portfolio" class="contents-wrap"><h2>portfolio</h2><ul class="portfolio-ul"><li class="portfolio-li"><p class="portfolio-title">そこにいる名無しさん</p><a href="sokonashi"><img src="img/portfolio/sokonashi.png" class="portfolio-img"></a><p class="portfolio-detail">そこなしさんです</p></li></ul></section></body></html>
